@@ -1,3 +1,26 @@
+This work from these papers：
+@article{weikun4770354generic,
+  title={Generic Physics-Informed Machine Learning Framework for Battery Remaining Useful Life Prediction Using Small Early-Stage Lifecycle Data},
+  author={WEIKUN, DENG and Le, Hung and Gogu, Christian and Nguyen, Khanh TP and Medjaher, Kamal and Morio, J{\'e}r{\^o}me and Wu, Dazhong},
+  journal={Available at SSRN 4770354}
+}
+@inproceedings{deng2024novel,
+  title={A Novel PIML Architecture with Innovative Learning Paradigm Applied in Battery Prognostics},
+  author={Deng, Weikun and Nguyen, Khanh TP and Gogu, Christian and Mejaher, Kamal and Morio, J{\'e}r{\^o}me and Le, Hung and Wu, Dazhong},
+  booktitle={2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)},
+  pages={248--253},
+  year={2024},
+  organization={IEEE}
+}
+@article{weikun2023physics,
+  title={Physics-informed machine learning in prognostics and health management: State of the art and challenges},
+  author={Weikun, DENG and Nguyen, Khanh TP and Medjaher, Kamal and Christian, GOGU and Morio, J{\'e}r{\^o}me},
+  journal={Applied Mathematical Modelling},
+  volume={124},
+  pages={325--352},
+  year={2023},
+  publisher={Elsevier}
+}
 # PIML-benchmark-architecture
 Benchmark training methodology and framework for PIML (to ensure that knowledge filtering and embedded knowledge is ML-friendly)
 
